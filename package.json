@@ -27,6 +27,7 @@
     "style-loader": "^2.0.0",
     "css-loader": "^5.0.1",
     "babel-loader": "^8.2.2",
+    "react-hot-loader": "^4.13.0",
 
     "@testing-library/react": "^11.2.2"
   }
