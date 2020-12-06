@@ -6,7 +6,8 @@ I would like this boilerplate to be as minimalistic as possible, and to be confi
 ## Available features out of the box
 - :fire: Hot Realoading
 - :boom: jest & testing-library support
-## To-Do features
+## To-Do features (sorted by priority)
+* Add eslint and configuration for React
+* npm publish feature
 * Opt-in for Typescript
 * Opt-in for Sass
-* npm publish feature
